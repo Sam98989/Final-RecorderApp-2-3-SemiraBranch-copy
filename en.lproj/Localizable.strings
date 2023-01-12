@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  RecorderApp
+
+  Created by Rahaf Aldosary on 16/06/1444 AH.
+  
+*/
+"Welcome" = "How are you feeling today?";
+
+
+"SavedRecordings" = "Saved Recordings";
+"Recordings" = "Recordings";
+
+
+
+"Record" = "Record";
+
+"Tab" = "Tab to record";
+
+
+
+

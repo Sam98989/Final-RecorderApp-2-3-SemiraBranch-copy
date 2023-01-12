@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  RecorderApp
+
+  Created by Rahaf Aldosary on 16/06/1444 AH.
+  
+*/
+"Welcome" = "आज आप कैसा महसूस कर रहे हैं?";
+
+
+"SavedRecordings" = "सहेजी गई रिकॉर्डिंग";
+"Recordings" = "रिकॉर्डिंग";
+
+
+
+"Record" = "अभिलेख";
+
+"Tab" = "रिकॉर्ड करने के लिए टैब";
+
+
+
+

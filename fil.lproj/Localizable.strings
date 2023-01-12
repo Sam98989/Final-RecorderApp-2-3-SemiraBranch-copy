@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  RecorderApp
+
+  Created by Rahaf Aldosary on 16/06/1444 AH.
+  
+*/
+"Welcome" = "Ano ang pakiramdam mo ngayon?";
+
+
+"SavedRecordings" = "Naka-save na Mga Record";
+"Recordings" = "Mga recording";
+
+
+
+"Record" = "Itala";
+
+"Tab" = "Tab para i-record";
+
+
+
+
