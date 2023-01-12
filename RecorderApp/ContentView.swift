@@ -142,7 +142,7 @@ struct ContentView: View{
                     Text("Tab")
                         .foregroundColor(.white)
                         .font(.custom("MontserratAlternates-Regular", size: 18))
-                        .padding(.top, 390)
+                        .padding(.top, 470)
                     Spacer()
                     HStack {
                         
