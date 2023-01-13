@@ -36,6 +36,8 @@ an object that records audio data to a file.
 
 4. Figma
 
+5. Localization
+
 
 # Demo:
 
