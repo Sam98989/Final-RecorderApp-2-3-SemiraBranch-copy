@@ -1,5 +1,5 @@
-
 # MobiDiary
+
 
 # Big Idea:
 
@@ -12,7 +12,8 @@ Make an inclusive solution that helps people who need to record their voice with
 
 # Solution Concept
 
-A place for people who want to express their thoughts and vent by pouring out their emotions 
+A place for people who want to express their thoughts and vent by pouring out their emotions
+
 so that their thoughts will be organized and the intensity of their emotions will be alleviated.
 
 
@@ -39,9 +40,10 @@ an object that records audio data to a file.
 5. Localization
 
 
-# Demo:
+# [Demo](https://drive.google.com/file/d/1_0z_xIqUTJxXrzXY7xwERvXYJc8ksGkx/view?usp=share_link)
 
-https://drive.google.com/file/d/1_0z_xIqUTJxXrzXY7xwERvXYJc8ksGkx/view?usp=share_link
+
+# [Test Flight](https://testflight.apple.com/join/Hr2WtlXk)
 
 
 # Challenge Summary:
