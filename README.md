@@ -48,5 +48,6 @@ an object that records audio data to a file.
 
 # Challenge Summary:
 
-![WhatsApp Image 2023-01-13 at 12 11 22 AM](https://user-images.githubusercontent.com/116543990/212182312-e3076aae-15cc-4be4-b52d-2182cf245c5f.jpeg)
 
+
+<img width="1253" alt="Screenshot 2023-01-15 at 6 16 40 PM" src="https://user-images.githubusercontent.com/116790134/212549773-4d145785-9672-438e-9a67-be74c1d98c73.png">
