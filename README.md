@@ -3,7 +3,8 @@
 
 # Big Idea:
 
-Give space to people to help them express their emotions and thoughts.
+Inclusion
+
 
 # Challenge Statment:
 
